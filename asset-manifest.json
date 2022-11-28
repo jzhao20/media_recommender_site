@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/media_recommender_site/static/css/main.073c9b0a.css",
-    "main.js": "/media_recommender_site/static/js/main.ec04d3db.js",
+    "main.js": "/media_recommender_site/static/js/main.65d5b107.js",
     "static/js/787.7e33b699.chunk.js": "/media_recommender_site/static/js/787.7e33b699.chunk.js",
+    "static/media/media_recommender.apk": "/media_recommender_site/static/media/media_recommender.dadd57185ba0071aedfd.apk",
     "static/media/download_image.png": "/media_recommender_site/static/media/download_image.1422c3dcf0ad65e6e41a.png",
     "index.html": "/media_recommender_site/index.html",
     "main.073c9b0a.css.map": "/media_recommender_site/static/css/main.073c9b0a.css.map",
-    "main.ec04d3db.js.map": "/media_recommender_site/static/js/main.ec04d3db.js.map",
+    "main.65d5b107.js.map": "/media_recommender_site/static/js/main.65d5b107.js.map",
     "787.7e33b699.chunk.js.map": "/media_recommender_site/static/js/787.7e33b699.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ec04d3db.js"
+    "static/js/main.65d5b107.js"
   ]
 }
